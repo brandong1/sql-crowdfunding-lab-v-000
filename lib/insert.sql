@@ -12,7 +12,7 @@ INSERT INTO users (name, age) VALUES ("jim", 11)
 INSERT INTO users (name, age) VALUES ("john", 28)
 INSERT INTO users (name, age) VALUES ("mike", 28)
 INSERT INTO users (name, age) VALUES ("mitch", 28)
-INSERT INTO users (name, age) VALUES ("heidi", 76
+INSERT INTO users (name, age) VALUES ("heidi", 76)
 INSERT INTO users (name, age) VALUES ("helen", 28)
 INSERT INTO users (name, age) VALUES ("amber", 2)
 INSERT INTO users (name, age) VALUES ("steve", 28)
